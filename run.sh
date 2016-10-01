@@ -4,4 +4,4 @@
 cd /c/Users/AdminPC/webapp/src
 
 # run go test
-go test
+go test  -bench=.
